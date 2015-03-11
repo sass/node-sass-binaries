@@ -21,7 +21,9 @@ The precompiled native bindings are available for [Node.js](http://nodejs.org/) 
 
 ### io.js 1.0
 
+- Windows (ia32 + x64)
 - OS X (x64)
+- Linux (ia32 + x64)
 
 ### io.js 1.1+
 
