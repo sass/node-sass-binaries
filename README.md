@@ -12,25 +12,28 @@ The precompiled native bindings are available for [Node.js](http://nodejs.org/) 
 - Windows (ia32 + x64)
 - OS X (x64)
 - Linux (ia32 + x64)
-- FreeBSD (x64)
+- FreeBSD 10.x (ia32 + x64)
 
 ### Node.js 0.10
 
 - Windows (ia32 + x64)
 - OS X (x64)
 - Linux (ia32 + x64)
+- FreeBSD 10.x (ia32 + x64)
 
 ### io.js 1.0
 
 - Windows (ia32 + x64)
 - OS X (x64)
 - Linux (ia32 + x64)
+- FreeBSD 10.x (ia32 + x64)
 
 ### io.js 1.1+
 
 - Windows (ia32 + x64)
 - OS X (x64)
 - Linux (ia32 + x64)
+- FreeBSD 10.x (ia32 + x64)
 
 ## Copyright
 
