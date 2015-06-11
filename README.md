@@ -35,6 +35,14 @@ The precompiled native bindings are available for [Node.js](http://nodejs.org/) 
 - Linux (ia32 + x64)
 - FreeBSD 10.x (ia32 + x64)
 
+### io.js 2+
+
+- Windows (ia32 + x64)
+- OS X (x64)
+- Linux (ia32 + x64)
+- FreeBSD 10.x (ia32 + x64) 
+
+
 ## Copyright
 
 Copyright (c) 2013 Andrew Nesbitt. See [LICENSE](https://github.com/sass/node-sass-binaries/blob/master/LICENSE) for details.
