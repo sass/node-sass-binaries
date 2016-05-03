@@ -7,40 +7,15 @@ This repository contains the native bindings that are published to NPM as part o
 
 The precompiled native bindings are available for [Node.js](http://nodejs.org/) and [io.js](https://iojs.org/) on the most common platforms.
 
-### Node.js 0.12
 
-- Windows (ia32 + x64)
-- OS X (x64)
-- Linux (ia32 + x64)
-- FreeBSD 10.x (ia32 + x64)
+OS | Node
+------------ | -------------
+Windows x86 & x64 | 0.10, 0.12, 1, 2, 3, 4, 5, 6
+OSX x64 | 0.10, 0.12, 1, 2, 3, 4, 5, 6
+Linux x86 & x64 | 0.10, 0.12, 1, 2, 3, 4, 5, 6
+FreeBSD x86 & x64 | 0.10, 0.12, 1, 2, 3, 4, 5
 
-### Node.js 0.10
-
-- Windows (ia32 + x64)
-- OS X (x64)
-- Linux (ia32 + x64)
-- FreeBSD 10.x (ia32 + x64)
-
-### io.js 1.0
-
-- Windows (ia32 + x64)
-- OS X (x64)
-- Linux (ia32 + x64)
-- FreeBSD 10.x (ia32 + x64)
-
-### io.js 1.1+
-
-- Windows (ia32 + x64)
-- OS X (x64)
-- Linux (ia32 + x64)
-- FreeBSD 10.x (ia32 + x64)
-
-### io.js 2+
-
-- Windows (ia32 + x64)
-- OS X (x64)
-- Linux (ia32 + x64)
-- FreeBSD 10.x (ia32 + x64) 
+*Linux support refers to Ubuntu, Debian, and CentOS 5
 
 
 ## Copyright
