@@ -10,7 +10,7 @@ The precompiled native bindings are available for [Node.js](http://nodejs.org/) 
 
 OS | Node
 ------------ | -------------
-Windows x86 & x64 | 0.10, 0.12, 1, 2, 3, 4, 5, 6
+Windows x86 & x64 | 0.10, 0.12, 1, 2, 3, 4, 5, 6, 7
 OSX x64 | 0.10, 0.12, 1, 2, 3, 4, 5, 6
 Linux x86 & x64 | 0.10, 0.12, 1, 2, 3, 4, 5, 6
 FreeBSD x86 & x64 | 0.10, 0.12, 1, 2, 3, 4, 5
